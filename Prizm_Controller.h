@@ -4,7 +4,7 @@
 #define PRIZM_H
 
 #include "Prizm_Expansion.h"
-#include "Prizm_DС_Expansion.h"
+#include "Prizm_DC_Expansion.h"
 #include "Prizm_Servo_Expansion.h"
 
 #define PRIZM_INTEGRATEDDC_ID (5)
