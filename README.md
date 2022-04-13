@@ -1,2 +1,2 @@
-# Prizm_Controller
+# Description
  An Arduino library for TETRIX PRIZM controllers
