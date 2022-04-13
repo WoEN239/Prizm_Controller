@@ -2,7 +2,7 @@
 // Created by User on 26.09.2021.
 //
 
-#include "Prizm_DС_Expansion.h"
+#include "Prizm_DC_Expansion.h"
 
 
 void PrizmDCExpansion::setMotorPower(uint8_t channel, int16_t power) {
